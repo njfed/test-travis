@@ -1,0 +1,19 @@
+{
+  "name": "test-travis",
+  "version": "1.0.0",
+  "description": "test travis",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njfed/test-travis.git"
+  },
+  "author": "qintx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njfed/test-travis/issues"
+  },
+  "homepage": "https://github.com/njfed/test-travis#readme"
+}
